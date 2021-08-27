@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+span :hover {
+    text-decoration: none !important;
+}
+
+span :focus{
+    text-decoration: none !important;
+}
+
+.texto {
+    color: dimgray !important;
+}
