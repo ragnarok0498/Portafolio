@@ -2,8 +2,11 @@
 include_once 'plantillas/declaracion_inicio.inc.php';
 
 ?>
-<h1> Platzi</h1>
-<p>Create text y write code</p>
+
+<div class="navbar nav">
+    
+</div>
+
 <?php
 include_once 'plantillas/declaracion_cierre.inc.php';
 ?>
